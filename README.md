@@ -21,6 +21,7 @@ The device IP and port configurations are as shown in the figure below. The left
 - [NVIDIA TAO](https://docs.nvidia.com/tao/tao-toolkit/text/point_cloud/pointpillars.html#creating-an-experiment-spec-file)
 
 ## Demo
+See the [video](./video/CP_output_file.mp4).
 <!-- mp4格式 -->
 <video id="video" controls="" preload="none" poster="封面">
       <source id="mp4" src="./video/CP_output_file.mp4" type="video/mp4">
