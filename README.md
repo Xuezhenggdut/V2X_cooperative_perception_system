@@ -21,6 +21,9 @@ The device IP and port configurations are as shown in the figure below. The left
 - [NVIDIA TAO](https://docs.nvidia.com/tao/tao-toolkit/text/point_cloud/pointpillars.html#creating-an-experiment-spec-file)
 
 ## Demo
+https://github.com/Xuezhenggdut/V2X_cooperative_perception_system/assets/46556712/c9f54fb6-881a-4892-b0d8-0fa109310214
+
+
 See the [video](./video/CP_output_file.mp4).
 <!-- mp4格式 -->
 <video id="video" controls="" preload="none" poster="封面">
