@@ -15,15 +15,16 @@ The device IP and port configurations are as shown in the figure below. The left
 
 ![receiver_rosgraph](./document/images/receiver_rosgraph.png)
 
-## Reference
-- [ROS2 node for TAO-PointPillars](https://github.com/NVIDIA-AI-IOT/ros2_tao_pointpillars)
-- [ROS 2 Documentation: Foxy](https://docs.ros.org/en/foxy/index.html)
-- [NVIDIA TAO](https://docs.nvidia.com/tao/tao-toolkit/text/point_cloud/pointpillars.html#creating-an-experiment-spec-file)
 
 ## Demo
 https://github.com/Xuezhenggdut/V2X_cooperative_perception_system/assets/46556712/ef8c0cf9-fe07-4639-98ef-5732f4cd2ee6
 
 https://github.com/Xuezhenggdut/V2X_cooperative_perception_system/assets/46556712/c9f54fb6-881a-4892-b0d8-0fa109310214
+
+## Reference
+- [ROS2 node for TAO-PointPillars](https://github.com/NVIDIA-AI-IOT/ros2_tao_pointpillars)
+- [ROS 2 Documentation: Foxy](https://docs.ros.org/en/foxy/index.html)
+- [NVIDIA TAO](https://docs.nvidia.com/tao/tao-toolkit/text/point_cloud/pointpillars.html#creating-an-experiment-spec-file)
 
 
 <!-- See the [video](./video/CP_output_file.mp4).
